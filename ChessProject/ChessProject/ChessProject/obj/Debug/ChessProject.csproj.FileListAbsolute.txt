@@ -1,0 +1,15 @@
+D:\Tài liệu\Lập trình Mạng căn bản\THỰC HÀNH\CSharpProject_NT106.M21\ChessProject\ChessProject\bin\Debug\ChessProject.exe.config
+D:\Tài liệu\Lập trình Mạng căn bản\THỰC HÀNH\CSharpProject_NT106.M21\ChessProject\ChessProject\bin\Debug\ChessProject.exe
+D:\Tài liệu\Lập trình Mạng căn bản\THỰC HÀNH\CSharpProject_NT106.M21\ChessProject\ChessProject\bin\Debug\ChessProject.pdb
+D:\Tài liệu\Lập trình Mạng căn bản\THỰC HÀNH\CSharpProject_NT106.M21\ChessProject\ChessProject\obj\Debug\ChessProject.csproj.AssemblyReference.cache
+D:\Tài liệu\Lập trình Mạng căn bản\THỰC HÀNH\CSharpProject_NT106.M21\ChessProject\ChessProject\obj\Debug\ChessProject.csproj.SuggestedBindingRedirects.cache
+D:\Tài liệu\Lập trình Mạng căn bản\THỰC HÀNH\CSharpProject_NT106.M21\ChessProject\ChessProject\obj\Debug\ChessProject.Login.resources
+D:\Tài liệu\Lập trình Mạng căn bản\THỰC HÀNH\CSharpProject_NT106.M21\ChessProject\ChessProject\obj\Debug\ChessProject.Properties.Resources.resources
+D:\Tài liệu\Lập trình Mạng căn bản\THỰC HÀNH\CSharpProject_NT106.M21\ChessProject\ChessProject\obj\Debug\ChessProject.csproj.GenerateResource.cache
+D:\Tài liệu\Lập trình Mạng căn bản\THỰC HÀNH\CSharpProject_NT106.M21\ChessProject\ChessProject\obj\Debug\ChessProject.csproj.CoreCompileInputs.cache
+D:\Tài liệu\Lập trình Mạng căn bản\THỰC HÀNH\CSharpProject_NT106.M21\ChessProject\ChessProject\obj\Debug\ChessProject.exe
+D:\Tài liệu\Lập trình Mạng căn bản\THỰC HÀNH\CSharpProject_NT106.M21\ChessProject\ChessProject\obj\Debug\ChessProject.pdb
+D:\Tài liệu\Lập trình Mạng căn bản\THỰC HÀNH\CSharpProject_NT106.M21\ChessProject\ChessProject\obj\Debug\ChessProject.ForgotPass.resources
+D:\Tài liệu\Lập trình Mạng căn bản\THỰC HÀNH\CSharpProject_NT106.M21\ChessProject\ChessProject\obj\Debug\ChessProject.ResetPass.resources
+D:\Tài liệu\Lập trình Mạng căn bản\THỰC HÀNH\CSharpProject_NT106.M21\ChessProject\ChessProject\obj\Debug\ChessProject.SignUp.resources
+D:\Tài liệu\Lập trình Mạng căn bản\THỰC HÀNH\CSharpProject_NT106.M21\ChessProject\ChessProject\obj\Debug\ChessProject.VerifyCode.resources

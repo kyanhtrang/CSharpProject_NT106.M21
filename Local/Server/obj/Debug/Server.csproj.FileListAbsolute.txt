@@ -1,0 +1,45 @@
+C:\Users\DELL\Source\Repos\Server\bin\Debug\Server.exe.config
+C:\Users\DELL\Source\Repos\Server\bin\Debug\Server.exe
+C:\Users\DELL\Source\Repos\Server\bin\Debug\Server.pdb
+C:\Users\DELL\Source\Repos\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\DELL\Source\Repos\Server\obj\Debug\Server.Form1.resources
+C:\Users\DELL\Source\Repos\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\DELL\Source\Repos\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\DELL\Source\Repos\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Source\Repos\Server\obj\Debug\Server.exe
+C:\Users\DELL\Source\Repos\Server\obj\Debug\Server.pdb
+C:\Users\DELL\Desktop\Github\My chess game\Nhom1-NT106-DoAnCK\Server\bin\Debug\Server.exe.config
+C:\Users\DELL\Desktop\Github\My chess game\Nhom1-NT106-DoAnCK\Server\bin\Debug\Server.exe
+C:\Users\DELL\Desktop\Github\My chess game\Nhom1-NT106-DoAnCK\Server\bin\Debug\Server.pdb
+C:\Users\DELL\Desktop\Github\My chess game\Nhom1-NT106-DoAnCK\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Github\My chess game\Nhom1-NT106-DoAnCK\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\DELL\Desktop\Github\My chess game\Nhom1-NT106-DoAnCK\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Github\My chess game\Nhom1-NT106-DoAnCK\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Github\My chess game\Nhom1-NT106-DoAnCK\Server\obj\Debug\Server.exe
+C:\Users\DELL\Desktop\Github\My chess game\Nhom1-NT106-DoAnCK\Server\obj\Debug\Server.pdb
+C:\Users\DELL\Desktop\Github\My chess game\Nhom1-NT106-DoAnCK\Server\obj\Debug\Server.ServerStartListen.resources
+C:\Users\DELL\Desktop\2022-20220619T061846Z-001\18-6-2022\Local\Local\Server\bin\Debug\Server.exe.config
+C:\Users\DELL\Desktop\2022-20220619T061846Z-001\18-6-2022\Local\Local\Server\bin\Debug\Server.exe
+C:\Users\DELL\Desktop\2022-20220619T061846Z-001\18-6-2022\Local\Local\Server\bin\Debug\Server.pdb
+C:\Users\DELL\Desktop\2022-20220619T061846Z-001\18-6-2022\Local\Local\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\2022-20220619T061846Z-001\18-6-2022\Local\Local\Server\obj\Debug\Server.ServerStartListen.resources
+C:\Users\DELL\Desktop\2022-20220619T061846Z-001\18-6-2022\Local\Local\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\DELL\Desktop\2022-20220619T061846Z-001\18-6-2022\Local\Local\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\2022-20220619T061846Z-001\18-6-2022\Local\Local\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\2022-20220619T061846Z-001\18-6-2022\Local\Local\Server\obj\Debug\Server.exe
+C:\Users\DELL\Desktop\2022-20220619T061846Z-001\18-6-2022\Local\Local\Server\obj\Debug\Server.pdb
+C:\Users\kyanh\Downloads\Local-20220619T142316Z-001\Local\Local\Server\bin\Debug\Server.exe.config
+C:\Users\kyanh\Downloads\Local-20220619T142316Z-001\Local\Local\Server\bin\Debug\Server.exe
+C:\Users\kyanh\Downloads\Local-20220619T142316Z-001\Local\Local\Server\bin\Debug\Server.pdb
+C:\Users\kyanh\Downloads\Local-20220619T142316Z-001\Local\Local\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\kyanh\Downloads\Local-20220619T142316Z-001\Local\Local\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\kyanh\Downloads\Local-20220619T142316Z-001\Local\Local\Server\obj\Debug\Server.ServerStartListen.resources
+C:\Users\kyanh\Downloads\Local-20220619T142316Z-001\Local\Local\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\kyanh\Downloads\Local-20220619T142316Z-001\Local\Local\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\kyanh\Downloads\Local-20220619T142316Z-001\Local\Local\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\kyanh\Downloads\Local-20220619T142316Z-001\Local\Local\Server\obj\Debug\Server.exe
+C:\Users\kyanh\Downloads\Local-20220619T142316Z-001\Local\Local\Server\obj\Debug\Server.pdb
+D:\Tài liệu\CSharpProject_NT106.M21\Local\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\Tài liệu\CSharpProject_NT106.M21\Local\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+D:\Tài liệu\CSharpProject_NT106.M21\Local\Server\obj\Debug\Server.exe
+D:\Tài liệu\CSharpProject_NT106.M21\Local\Server\obj\Debug\Server.pdb

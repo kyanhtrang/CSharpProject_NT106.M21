@@ -1,0 +1,227 @@
+C:\Users\DELL\Desktop\Server\bin\Debug\Server.exe.config
+C:\Users\DELL\Desktop\Server\bin\Debug\Server.exe
+C:\Users\DELL\Desktop\Server\bin\Debug\Server.pdb
+C:\Users\DELL\Desktop\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\DELL\Desktop\Server\obj\Debug\Server.Server.resources
+C:\Users\DELL\Desktop\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Server\obj\Debug\Server.exe
+C:\Users\DELL\Desktop\Server\obj\Debug\Server.pdb
+C:\Users\DELL\Desktop\Server\bin\Debug\System.Data.SqlClient.dll
+C:\Users\DELL\Desktop\Server\bin\Debug\System.Data.SqlClient.xml
+C:\Users\DELL\Desktop\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\DELL\Desktop\Server\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DELL\Desktop\Server\bin\Debug\MailKit.dll
+C:\Users\DELL\Desktop\Server\bin\Debug\MimeKit.dll
+C:\Users\DELL\Desktop\Server\bin\Debug\System.Buffers.dll
+C:\Users\DELL\Desktop\Server\bin\Debug\System.Memory.dll
+C:\Users\DELL\Desktop\Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL\Desktop\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Desktop\Server\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Desktop\Server\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\Server\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\DELL\Desktop\Server\bin\Debug\MailKit.pdb
+C:\Users\DELL\Desktop\Server\bin\Debug\MailKit.xml
+C:\Users\DELL\Desktop\Server\bin\Debug\MimeKit.pdb
+C:\Users\DELL\Desktop\Server\bin\Debug\MimeKit.xml
+C:\Users\DELL\Desktop\Server\bin\Debug\System.Buffers.xml
+C:\Users\DELL\Desktop\Server\bin\Debug\System.Memory.xml
+C:\Users\DELL\Desktop\Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL\Desktop\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Desktop\Server\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kyanh\Downloads\ChessProject 2.0-20220615T054210Z-001\ChessProject 2.0\Server\bin\Debug\Server.exe.config
+C:\Users\kyanh\Downloads\ChessProject 2.0-20220615T054210Z-001\ChessProject 2.0\Server\bin\Debug\Server.exe
+C:\Users\kyanh\Downloads\ChessProject 2.0-20220615T054210Z-001\ChessProject 2.0\Server\bin\Debug\Server.pdb
+C:\Users\kyanh\Downloads\ChessProject 2.0-20220615T054210Z-001\ChessProject 2.0\Server\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kyanh\Downloads\ChessProject 2.0-20220615T054210Z-001\ChessProject 2.0\Server\bin\Debug\MailKit.dll
+C:\Users\kyanh\Downloads\ChessProject 2.0-20220615T054210Z-001\ChessProject 2.0\Server\bin\Debug\MimeKit.dll
+C:\Users\kyanh\Downloads\ChessProject 2.0-20220615T054210Z-001\ChessProject 2.0\Server\bin\Debug\System.Buffers.dll
+C:\Users\kyanh\Downloads\ChessProject 2.0-20220615T054210Z-001\ChessProject 2.0\Server\bin\Debug\System.Data.SqlClient.dll
+C:\Users\kyanh\Downloads\ChessProject 2.0-20220615T054210Z-001\ChessProject 2.0\Server\bin\Debug\System.Memory.dll
+C:\Users\kyanh\Downloads\ChessProject 2.0-20220615T054210Z-001\ChessProject 2.0\Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kyanh\Downloads\ChessProject 2.0-20220615T054210Z-001\ChessProject 2.0\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kyanh\Downloads\ChessProject 2.0-20220615T054210Z-001\ChessProject 2.0\Server\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\kyanh\Downloads\ChessProject 2.0-20220615T054210Z-001\ChessProject 2.0\Server\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kyanh\Downloads\ChessProject 2.0-20220615T054210Z-001\ChessProject 2.0\Server\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\kyanh\Downloads\ChessProject 2.0-20220615T054210Z-001\ChessProject 2.0\Server\bin\Debug\MailKit.pdb
+C:\Users\kyanh\Downloads\ChessProject 2.0-20220615T054210Z-001\ChessProject 2.0\Server\bin\Debug\MailKit.xml
+C:\Users\kyanh\Downloads\ChessProject 2.0-20220615T054210Z-001\ChessProject 2.0\Server\bin\Debug\MimeKit.pdb
+C:\Users\kyanh\Downloads\ChessProject 2.0-20220615T054210Z-001\ChessProject 2.0\Server\bin\Debug\MimeKit.xml
+C:\Users\kyanh\Downloads\ChessProject 2.0-20220615T054210Z-001\ChessProject 2.0\Server\bin\Debug\System.Buffers.xml
+C:\Users\kyanh\Downloads\ChessProject 2.0-20220615T054210Z-001\ChessProject 2.0\Server\bin\Debug\System.Data.SqlClient.xml
+C:\Users\kyanh\Downloads\ChessProject 2.0-20220615T054210Z-001\ChessProject 2.0\Server\bin\Debug\System.Memory.xml
+C:\Users\kyanh\Downloads\ChessProject 2.0-20220615T054210Z-001\ChessProject 2.0\Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kyanh\Downloads\ChessProject 2.0-20220615T054210Z-001\ChessProject 2.0\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kyanh\Downloads\ChessProject 2.0-20220615T054210Z-001\ChessProject 2.0\Server\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kyanh\Downloads\ChessProject 2.0-20220615T054210Z-001\ChessProject 2.0\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\kyanh\Downloads\ChessProject 2.0-20220615T054210Z-001\ChessProject 2.0\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\kyanh\Downloads\ChessProject 2.0-20220615T054210Z-001\ChessProject 2.0\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\kyanh\Downloads\ChessProject 2.0-20220615T054210Z-001\ChessProject 2.0\Server\obj\Debug\Server.Server.resources
+C:\Users\kyanh\Downloads\ChessProject 2.0-20220615T054210Z-001\ChessProject 2.0\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\kyanh\Downloads\ChessProject 2.0-20220615T054210Z-001\ChessProject 2.0\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\kyanh\Downloads\ChessProject 2.0-20220615T054210Z-001\ChessProject 2.0\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\kyanh\Downloads\ChessProject 2.0-20220615T054210Z-001\ChessProject 2.0\Server\obj\Debug\Server.exe
+C:\Users\kyanh\Downloads\ChessProject 2.0-20220615T054210Z-001\ChessProject 2.0\Server\obj\Debug\Server.pdb
+C:\Users\DELL\Desktop\ChessProject 5.00pm\ChessProject\Server\bin\Debug\Server.exe.config
+C:\Users\DELL\Desktop\ChessProject 5.00pm\ChessProject\Server\bin\Debug\Server.exe
+C:\Users\DELL\Desktop\ChessProject 5.00pm\ChessProject\Server\bin\Debug\Server.pdb
+C:\Users\DELL\Desktop\ChessProject 5.00pm\ChessProject\Server\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DELL\Desktop\ChessProject 5.00pm\ChessProject\Server\bin\Debug\MailKit.dll
+C:\Users\DELL\Desktop\ChessProject 5.00pm\ChessProject\Server\bin\Debug\MimeKit.dll
+C:\Users\DELL\Desktop\ChessProject 5.00pm\ChessProject\Server\bin\Debug\System.Buffers.dll
+C:\Users\DELL\Desktop\ChessProject 5.00pm\ChessProject\Server\bin\Debug\System.Data.SqlClient.dll
+C:\Users\DELL\Desktop\ChessProject 5.00pm\ChessProject\Server\bin\Debug\System.Memory.dll
+C:\Users\DELL\Desktop\ChessProject 5.00pm\ChessProject\Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL\Desktop\ChessProject 5.00pm\ChessProject\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Desktop\ChessProject 5.00pm\ChessProject\Server\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Desktop\ChessProject 5.00pm\ChessProject\Server\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\ChessProject 5.00pm\ChessProject\Server\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\DELL\Desktop\ChessProject 5.00pm\ChessProject\Server\bin\Debug\MailKit.pdb
+C:\Users\DELL\Desktop\ChessProject 5.00pm\ChessProject\Server\bin\Debug\MailKit.xml
+C:\Users\DELL\Desktop\ChessProject 5.00pm\ChessProject\Server\bin\Debug\MimeKit.pdb
+C:\Users\DELL\Desktop\ChessProject 5.00pm\ChessProject\Server\bin\Debug\MimeKit.xml
+C:\Users\DELL\Desktop\ChessProject 5.00pm\ChessProject\Server\bin\Debug\System.Buffers.xml
+C:\Users\DELL\Desktop\ChessProject 5.00pm\ChessProject\Server\bin\Debug\System.Data.SqlClient.xml
+C:\Users\DELL\Desktop\ChessProject 5.00pm\ChessProject\Server\bin\Debug\System.Memory.xml
+C:\Users\DELL\Desktop\ChessProject 5.00pm\ChessProject\Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL\Desktop\ChessProject 5.00pm\ChessProject\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Desktop\ChessProject 5.00pm\ChessProject\Server\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\Desktop\ChessProject 5.00pm\ChessProject\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\ChessProject 5.00pm\ChessProject\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\DELL\Desktop\ChessProject 5.00pm\ChessProject\Server\obj\Debug\Server.Server.resources
+C:\Users\DELL\Desktop\ChessProject 5.00pm\ChessProject\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\ChessProject 5.00pm\ChessProject\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ChessProject 5.00pm\ChessProject\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\DELL\Desktop\ChessProject 5.00pm\ChessProject\Server\obj\Debug\Server.exe
+C:\Users\DELL\Desktop\ChessProject 5.00pm\ChessProject\Server\obj\Debug\Server.pdb
+C:\Users\DELL\Desktop\backup 5am\ChessProject 5.00pm\ChessProject\Server\bin\Debug\Server.exe.config
+C:\Users\DELL\Desktop\backup 5am\ChessProject 5.00pm\ChessProject\Server\bin\Debug\Server.exe
+C:\Users\DELL\Desktop\backup 5am\ChessProject 5.00pm\ChessProject\Server\bin\Debug\Server.pdb
+C:\Users\DELL\Desktop\backup 5am\ChessProject 5.00pm\ChessProject\Server\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DELL\Desktop\backup 5am\ChessProject 5.00pm\ChessProject\Server\bin\Debug\MailKit.dll
+C:\Users\DELL\Desktop\backup 5am\ChessProject 5.00pm\ChessProject\Server\bin\Debug\MimeKit.dll
+C:\Users\DELL\Desktop\backup 5am\ChessProject 5.00pm\ChessProject\Server\bin\Debug\System.Buffers.dll
+C:\Users\DELL\Desktop\backup 5am\ChessProject 5.00pm\ChessProject\Server\bin\Debug\System.Data.SqlClient.dll
+C:\Users\DELL\Desktop\backup 5am\ChessProject 5.00pm\ChessProject\Server\bin\Debug\System.Memory.dll
+C:\Users\DELL\Desktop\backup 5am\ChessProject 5.00pm\ChessProject\Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL\Desktop\backup 5am\ChessProject 5.00pm\ChessProject\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Desktop\backup 5am\ChessProject 5.00pm\ChessProject\Server\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Desktop\backup 5am\ChessProject 5.00pm\ChessProject\Server\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\backup 5am\ChessProject 5.00pm\ChessProject\Server\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\DELL\Desktop\backup 5am\ChessProject 5.00pm\ChessProject\Server\bin\Debug\MailKit.pdb
+C:\Users\DELL\Desktop\backup 5am\ChessProject 5.00pm\ChessProject\Server\bin\Debug\MailKit.xml
+C:\Users\DELL\Desktop\backup 5am\ChessProject 5.00pm\ChessProject\Server\bin\Debug\MimeKit.pdb
+C:\Users\DELL\Desktop\backup 5am\ChessProject 5.00pm\ChessProject\Server\bin\Debug\MimeKit.xml
+C:\Users\DELL\Desktop\backup 5am\ChessProject 5.00pm\ChessProject\Server\bin\Debug\System.Buffers.xml
+C:\Users\DELL\Desktop\backup 5am\ChessProject 5.00pm\ChessProject\Server\bin\Debug\System.Data.SqlClient.xml
+C:\Users\DELL\Desktop\backup 5am\ChessProject 5.00pm\ChessProject\Server\bin\Debug\System.Memory.xml
+C:\Users\DELL\Desktop\backup 5am\ChessProject 5.00pm\ChessProject\Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL\Desktop\backup 5am\ChessProject 5.00pm\ChessProject\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Desktop\backup 5am\ChessProject 5.00pm\ChessProject\Server\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\Desktop\backup 5am\ChessProject 5.00pm\ChessProject\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\backup 5am\ChessProject 5.00pm\ChessProject\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\DELL\Desktop\backup 5am\ChessProject 5.00pm\ChessProject\Server\obj\Debug\Server.Server.resources
+C:\Users\DELL\Desktop\backup 5am\ChessProject 5.00pm\ChessProject\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\backup 5am\ChessProject 5.00pm\ChessProject\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\backup 5am\ChessProject 5.00pm\ChessProject\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\DELL\Desktop\backup 5am\ChessProject 5.00pm\ChessProject\Server\obj\Debug\Server.exe
+C:\Users\DELL\Desktop\backup 5am\ChessProject 5.00pm\ChessProject\Server\obj\Debug\Server.pdb
+D:\ChessProject\ChessProject\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\ChessProject\ChessProject\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+D:\ChessProject\ChessProject\Server\obj\Debug\Server.exe
+D:\ChessProject\ChessProject\Server\obj\Debug\Server.pdb
+D:\ChessProject\ChessProject\Server\bin\Debug\Server.exe.config
+D:\ChessProject\ChessProject\Server\bin\Debug\Server.exe
+D:\ChessProject\ChessProject\Server\bin\Debug\Server.pdb
+D:\ChessProject\ChessProject\Server\bin\Debug\BouncyCastle.Crypto.dll
+D:\ChessProject\ChessProject\Server\bin\Debug\MailKit.dll
+D:\ChessProject\ChessProject\Server\bin\Debug\MimeKit.dll
+D:\ChessProject\ChessProject\Server\bin\Debug\System.Buffers.dll
+D:\ChessProject\ChessProject\Server\bin\Debug\System.Data.SqlClient.dll
+D:\ChessProject\ChessProject\Server\bin\Debug\System.Memory.dll
+D:\ChessProject\ChessProject\Server\bin\Debug\System.Numerics.Vectors.dll
+D:\ChessProject\ChessProject\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ChessProject\ChessProject\Server\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\ChessProject\ChessProject\Server\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ChessProject\ChessProject\Server\bin\Debug\BouncyCastle.Crypto.xml
+D:\ChessProject\ChessProject\Server\bin\Debug\MailKit.pdb
+D:\ChessProject\ChessProject\Server\bin\Debug\MailKit.xml
+D:\ChessProject\ChessProject\Server\bin\Debug\MimeKit.pdb
+D:\ChessProject\ChessProject\Server\bin\Debug\MimeKit.xml
+D:\ChessProject\ChessProject\Server\bin\Debug\System.Buffers.xml
+D:\ChessProject\ChessProject\Server\bin\Debug\System.Data.SqlClient.xml
+D:\ChessProject\ChessProject\Server\bin\Debug\System.Memory.xml
+D:\ChessProject\ChessProject\Server\bin\Debug\System.Numerics.Vectors.xml
+D:\ChessProject\ChessProject\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ChessProject\ChessProject\Server\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ChessProject\ChessProject\Server\obj\Debug\Server.Properties.Resources.resources
+D:\ChessProject\ChessProject\Server\obj\Debug\Server.Server.resources
+D:\ChessProject\ChessProject\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\ChessProject\ChessProject\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\ChessProject\ChessProject\Server\obj\Debug\Server.csproj.CopyComplete
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\Server.exe.config
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\Server.exe
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\Server.pdb
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\BouncyCastle.Crypto.dll
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\MailKit.dll
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\MimeKit.dll
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\System.Buffers.dll
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\System.Data.SqlClient.dll
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\System.Memory.dll
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\System.Numerics.Vectors.dll
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\BouncyCastle.Crypto.xml
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\MailKit.pdb
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\MailKit.xml
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\MimeKit.pdb
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\MimeKit.xml
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\System.Buffers.xml
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\System.Data.SqlClient.xml
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\System.Memory.xml
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\System.Numerics.Vectors.xml
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\Server\obj\Debug\Server.Properties.Resources.resources
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\Server\obj\Debug\Server.Server.resources
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\Server\obj\Debug\Server.csproj.CopyComplete
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\Server\obj\Debug\Server.exe
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\Server\obj\Debug\Server.pdb
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\Server.exe.config
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\Server.exe
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\Server.pdb
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\BouncyCastle.Crypto.dll
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\MailKit.dll
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\MimeKit.dll
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\System.Buffers.dll
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\System.Data.SqlClient.dll
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\System.Memory.dll
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\System.Numerics.Vectors.dll
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\BouncyCastle.Crypto.xml
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\MailKit.pdb
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\MailKit.xml
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\MimeKit.pdb
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\MimeKit.xml
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\System.Buffers.xml
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\System.Data.SqlClient.xml
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\System.Memory.xml
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\System.Numerics.Vectors.xml
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\Server\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\Server\obj\Debug\Server.Server.resources
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\Server\obj\Debug\Server.csproj.CopyComplete
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\Server\obj\Debug\Server.exe
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\Server\obj\Debug\Server.pdb

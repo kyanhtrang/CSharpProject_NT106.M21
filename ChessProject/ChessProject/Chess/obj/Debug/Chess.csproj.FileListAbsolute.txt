@@ -1,0 +1,30 @@
+C:\Users\DELL\Desktop\Github\My chess game\Nhom1-NT106-DoAnCK\client\Chess\bin\Debug\Chess.dll
+C:\Users\DELL\Desktop\Github\My chess game\Nhom1-NT106-DoAnCK\client\Chess\bin\Debug\Chess.pdb
+C:\Users\DELL\Desktop\Github\My chess game\Nhom1-NT106-DoAnCK\client\Chess\obj\Debug\Chess.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Github\My chess game\Nhom1-NT106-DoAnCK\client\Chess\obj\Debug\Chess.PawnPromotion.resources
+C:\Users\DELL\Desktop\Github\My chess game\Nhom1-NT106-DoAnCK\client\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\DELL\Desktop\Github\My chess game\Nhom1-NT106-DoAnCK\client\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Github\My chess game\Nhom1-NT106-DoAnCK\client\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Github\My chess game\Nhom1-NT106-DoAnCK\client\Chess\obj\Debug\Chess.dll
+C:\Users\DELL\Desktop\Github\My chess game\Nhom1-NT106-DoAnCK\client\Chess\obj\Debug\Chess.pdb
+D:\ChessProject\ChessProject\ChessProject\Chess\obj\Debug\Chess.csproj.AssemblyReference.cache
+D:\ChessProject\ChessProject\ChessProject\Chess\obj\Debug\Chess.dll
+D:\ChessProject\ChessProject\ChessProject\Chess\obj\Debug\Chess.pdb
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\ChessProject\Chess\bin\Debug\Chess.dll
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\ChessProject\Chess\bin\Debug\Chess.pdb
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\ChessProject\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\ChessProject\Chess\obj\Debug\Chess.PawnPromotion.resources
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\ChessProject\Chess\obj\Debug\Chess.Properties.Resources.resources
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\ChessProject\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\ChessProject\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\ChessProject\Chess\obj\Debug\Chess.dll
+D:\CODING\Lập trình mạng C#\CSharpProject_NT106.M21\ChessProject\ChessProject\Chess\obj\Debug\Chess.pdb
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\ChessProject\Chess\bin\Debug\Chess.dll
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\ChessProject\Chess\bin\Debug\Chess.pdb
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\ChessProject\Chess\obj\Debug\Chess.csproj.AssemblyReference.cache
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\ChessProject\Chess\obj\Debug\Chess.PawnPromotion.resources
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\ChessProject\Chess\obj\Debug\Chess.Properties.Resources.resources
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\ChessProject\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\ChessProject\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\ChessProject\Chess\obj\Debug\Chess.dll
+D:\Tài liệu\CSharpProject_NT106.M21\ChessProject\ChessProject\Chess\obj\Debug\Chess.pdb
